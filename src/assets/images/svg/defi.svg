@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164" height="164" viewBox="0 0 164 164">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc9433" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#432968" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc9433"/>
+      <stop offset="1" stop-color="#432968"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_517" data-name="Group 517" transform="translate(-191 -2558)">
+    <circle id="Ellipse_190" data-name="Ellipse 190" cx="82" cy="82" r="82" transform="translate(191 2558)" opacity="0.9" fill="url(#linear-gradient)"/>
+    <g id="Group_486" data-name="Group 486" transform="translate(-1141.455 -2.811)">
+      <line id="Line_49" data-name="Line 49" x1="14.018" y1="19.348" transform="translate(1377.959 2635.638)" fill="none" stroke="#774758" stroke-width="2"/>
+      <line id="Line_52" data-name="Line 52" y1="19.348" x2="14.018" transform="translate(1434.93 2635.638)" fill="none" stroke="#774758" stroke-width="2"/>
+      <line id="Line_50" data-name="Line 50" x1="7.108" y1="12.636" transform="translate(1366.311 2610.169)" fill="none" stroke="#774758" stroke-width="2"/>
+      <line id="Line_53" data-name="Line 53" x1="7.108" y1="12.636" transform="translate(1430.806 2608.891)" fill="none" stroke="#774758" stroke-width="2"/>
+      <line id="Line_51" data-name="Line 51" y1="12.636" x2="7.108" transform="translate(1388.325 2610.169)" fill="none" stroke="#774758" stroke-width="2"/>
+      <line id="Line_54" data-name="Line 54" y1="12.636" x2="7.108" transform="translate(1452.819 2608.891)" fill="none" stroke="#774758" stroke-width="2"/>
+      <rect id="Rectangle_1190" data-name="Rectangle 1190" width="46.067" height="33.168" rx="2" transform="translate(1390.781 2653.241)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_1191" data-name="Rectangle 1191" width="26.719" height="18.427" rx="2" transform="translate(1367.747 2621.916)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_1194" data-name="Rectangle 1194" width="26.719" height="18.427" rx="2" transform="translate(1432.241 2621.916)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_1192" data-name="Rectangle 1192" width="15.663" height="11.977" rx="1" transform="translate(1387.095 2599.804)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_1195" data-name="Rectangle 1195" width="16.124" height="11.824" rx="1" transform="translate(1451.547 2598.811)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_1193" data-name="Rectangle 1193" width="16.584" height="12.899" rx="1" transform="translate(1359.455 2601.646)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_1196" data-name="Rectangle 1196" width="17.199" height="12.899" rx="1" transform="translate(1423.599 2599.886)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

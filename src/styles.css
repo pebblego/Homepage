@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body {font-family: 'Roboto', sans-serif;}
+:root{
+    --font2:Montserrat, sans-serif;
+}
+a:hover{text-decoration:none;}
+.container { width: 87%; max-width: 87%;}
+.btnprimary{background: #432968;}
+h1, h2, h3, h4, h5, h6 {color: #3F3D56;}
+p{font-size: 14px; color: #7B7992; line-height:24px}
+p span, p a{color: #FC9433;}
+::placeholder{color: #BCB9D8; font-size:14px}
+button:focus{outline: none; box-shadow: none;}

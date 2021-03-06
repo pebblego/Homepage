@@ -1,0 +1,6 @@
+.navbar-brand{width:150px; transition:all .3s ease-in-out;}
+.navbar-nav .nav-link{color:#3F3D56; font-size: 14px; font-weight:500; padding:10px 23px}
+.headerprt{padding:5px 0; transition:all .3s ease-in-out; position: fixed; top: 0; left:0; z-index: 2; }
+.headerprt.fixed{ position: fixed; top: 0; left:0; transition:all .3s ease-in-out; background:#fff; z-index:2; box-shadow:0 4px 15px -13px #000; padding:0 ;}
+.headerprt.fixed .navbar-brand{width:130px} 
+.nav-link.active, .navbar-nav .nav-link:hover{color: #FC9433 !important;}
