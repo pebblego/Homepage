@@ -9,12 +9,12 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
 })
 export class MainbodyComponent implements OnInit {
   customOptions: OwlOptions = {
-    loop: true,
+    loop: false,
     autoplay: true,
     mouseDrag: false,
     touchDrag: false,
     pullDrag: false,
-    margin:90,
+    margin:15,
     dots: false,
     navSpeed: 700,
     navText: ['<i class="fas fa-chevron-left"></i>', '<i class="fas fa-chevron-right"></i>'],
@@ -29,7 +29,7 @@ export class MainbodyComponent implements OnInit {
         items: 3
       },
       940: {
-        items: 4
+        items: 5
       }
     },
     nav: true
