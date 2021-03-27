@@ -1,16 +1,16 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'footer',
-  templateUrl: './footer.component.html',
-  styleUrls: ['./footer.component.css']
+  selector: 'cookies',
+  templateUrl: './cookies.component.html',
+  styleUrls: ['./cookies.component.css']
 })
-export class FooterComponent implements OnInit {
-  coockiebox:boolean=true;
+export class CookiesComponent implements OnInit {
+
   constructor() { }
+  coockiebox:boolean=true;
 
   ngOnInit(): void {
-    
   }
   acceptcoockie(){
     this.coockiebox = false

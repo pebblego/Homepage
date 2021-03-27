@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_570" data-name="Group 570" transform="translate(-1135 -1181)">
+    <g id="Rectangle_1242" data-name="Rectangle 1242" transform="translate(1135 1181)" fill="none" stroke="#432968" stroke-width="1">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <rect id="Rectangle_1243" data-name="Rectangle 1243" width="24" height="7" transform="translate(1135 1181)" fill="#432968"/>
+    <line id="Line_68" data-name="Line 68" x2="8" transform="translate(1146.5 1192.5)" fill="none" stroke="#432968" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_69" data-name="Line 69" x2="8" transform="translate(1146.5 1196.5)" fill="none" stroke="#432968" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_70" data-name="Line 70" x2="5" transform="translate(1146.5 1200.5)" fill="none" stroke="#432968" stroke-linecap="round" stroke-width="1"/>
+    <g id="Rectangle_1244" data-name="Rectangle 1244" transform="translate(1138 1191)" fill="none" stroke="#432968" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+      <rect width="6" height="11" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5" height="10" fill="none"/>
+    </g>
+  </g>
+</svg>

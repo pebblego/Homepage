@@ -17,7 +17,7 @@
                 </ul>
 
                 <div class="subscribebox mt-4" style="display:none">
-                    <p>Get the latest Pébble Go updates,<br>
+                    <p>Get the latest Pébble GO updates,<br>
                     highlights and team activities.</p>
                     <div class="form-group">
                         <input type="text" placeholder="Your Email">
@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="col-xl-2 col-6 col-sm-3 customemargin">
-                <h3>Pébble Go</h3>
+                <h3>Pébble GO</h3>
                 <ul class="footerlinks1">
                     <li>
                         <a>Marketplace</a>
@@ -81,27 +81,12 @@
         <div class="row border-top mt-2">
             <div class="col-xl-12">
                 <ul class="copyrightsection">
-                    <li>© Pébble Go, Inc. All rights reserved.</li>
-                    <li><a href="">Terms of use</a></li>
-                    <li><a href="">Privacy Policy</a></li>
+                    <li>© Pébble GO, Inc. All rights reserved.</li>
+                    <li><a (click)="termsofuse()">Terms of use</a></li>
+                    <li><a (click)="privacypolicy()">Privacy Policy</a></li>
                 </ul>
             </div>
         </div>
     </div>
 </div>
 
-<div class="container-fluid coockibox bg-light py-4" *ngIf="coockiebox">
-    <div class="container">
-       <div class="row">
-           <div class="col-xl-10">
-            <h4>We use Cookie </h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-           </div>
-           <div class="col-md-2 my-auto">
-               <button class="btn btn-block text-white btnprimary mb-3" (click)="acceptcoockie()">Accept</button>
-               <button class="btn btn-default btn-block bordernew" (click)="declinecoockie()">Decline</button>
-
-           </div>
-       </div>
-    </div>
-</div>

@@ -8,13 +8,17 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
   styleUrls: ['./mainbody.component.css']
 })
 export class MainbodyComponent implements OnInit {
-  customOptions: OwlOptions = {
+  
+  constructor() { 
+    
+   }
+   customOptions: OwlOptions = {
     loop: false,
-    autoplay: true,
+    autoplay: false,
     mouseDrag: false,
     touchDrag: false,
     pullDrag: false,
-    margin:15,
+    margin:30,
     dots: false,
     navSpeed: 700,
     navText: ['<i class="fas fa-chevron-left"></i>', '<i class="fas fa-chevron-right"></i>'],
@@ -29,13 +33,11 @@ export class MainbodyComponent implements OnInit {
         items: 3
       },
       940: {
-        items: 5
+        items: 4
       }
     },
     nav: true
   }
-  constructor() { }
-
   ngOnInit(): void {
    
   }

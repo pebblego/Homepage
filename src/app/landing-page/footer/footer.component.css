@@ -12,7 +12,7 @@ ul.footerlinks1 li a.orangecolor{color: #FC9433;}
 .form-group button:hover{background:#ED7322;}
 .subscribebox p{color:#3F3D56; margin-bottom: 5px;}
 
-h3{font-weight: medium; font-size: 14px; }
+h3{font-weight: 500; font-size: 14px; margin-bottom: 0; }
 
 .sociallinks{list-style: none; margin:0; padding:0; display:flex}
 .sociallinks li{margin-right: 10px;}
@@ -23,10 +23,9 @@ h3{font-weight: medium; font-size: 14px; }
 
 .copyrightsection li{margin-right: 20px;}
 .copyrightsection li{font-size:14px; color: #3F3D56;}
-.copyrightsection li a{color: #ED7322; transition: all .3s ease-in-out;}
+.copyrightsection li a{color: #ED7322; transition: all .3s ease-in-out; cursor: pointer;}
 .copyrightsection li a:hover{text-decoration:none ; color: #3F3D56;}
-.coockibox{position: fixed; left:0; bottom:0; z-index:2;}
-.bordernew{border:1px solid #432968;}
+
 
 @media only screen and (min-width:270px) and (max-width:480px){
     

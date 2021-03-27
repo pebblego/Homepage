@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1008.184" height="356.787" viewBox="0 0 1008.184 356.787">
+  <g id="Group_577" data-name="Group 577" transform="translate(-192.782 -100.521)">
+    <g id="Group_545" data-name="Group 545" transform="translate(628.447 377.25)">
+      <g id="Polygon_17" data-name="Polygon 17" transform="translate(28.767 0) rotate(90)" fill="none">
+        <path d="M24.721,0l8.24,14.383-8.24,14.383H8.24L0,14.383,8.24,0Z" stroke="none"/>
+        <path d="M 8.820034027099609 0.9999980926513672 L 1.152490615844727 14.38334846496582 L 8.820034027099609 27.76669883728027 L 24.14180374145508 27.76669883728027 L 31.80934715270996 14.38334846496582 L 24.14180374145508 0.9999980926513672 L 8.820034027099609 0.9999980926513672 M 8.240459442138672 -1.9073486328125e-06 L 24.72137832641602 -1.9073486328125e-06 L 32.96183776855469 14.38334846496582 L 24.72137832641602 28.76669883728027 L 8.240459442138672 28.76669883728027 L 0 14.38334846496582 L 8.240459442138672 -1.9073486328125e-06 Z" stroke="none" fill="#fc9433"/>
+      </g>
+      <path id="Path_598" data-name="Path 598" d="M0,0,14.632,7.1" transform="translate(0 8.39)" fill="none" stroke="#fc9433" stroke-width="1"/>
+      <line id="Line_39" data-name="Line 39" x1="14.383" y2="7.192" transform="translate(14.383 8.39)" fill="none" stroke="#fc9433" stroke-width="1"/>
+      <line id="Line_40" data-name="Line 40" y2="16.781" transform="translate(14.383 15.582)" fill="none" stroke="#fc9433" stroke-width="1"/>
+    </g>
+    <g id="Group_546" data-name="Group 546" transform="translate(1145.257 393.731)">
+      <g id="Polygon_17-2" data-name="Polygon 17" transform="translate(55.485 0) rotate(90)" fill="none">
+        <path d="M47.682,0,63.577,27.743,47.682,55.485H15.894L0,27.743,15.894,0Z" stroke="none"/>
+        <path d="M 16.47373962402344 0.9999961853027344 L 1.152496337890625 27.7425365447998 L 16.47372817993164 54.48507690429688 L 47.1029052734375 54.48507690429688 L 62.42414855957031 27.7425365447998 L 47.1029052734375 0.9999961853027344 L 16.47373962402344 0.9999961853027344 M 15.89416122436523 -3.814697265625e-06 L 47.6824836730957 -3.814697265625e-06 L 63.57664108276367 27.7425365447998 L 47.6824836730957 55.48507690429688 L 15.8941535949707 55.48507690429688 L 3.814697265625e-06 27.7425365447998 L 15.89416122436523 -3.814697265625e-06 Z" stroke="none" fill="#fc9433"/>
+      </g>
+      <path id="Path_598-2" data-name="Path 598" d="M0,0,28.223,13.7" transform="translate(0 16.183)" fill="none" stroke="#fc9433" stroke-width="1"/>
+      <line id="Line_39-2" data-name="Line 39" x1="27.743" y2="13.871" transform="translate(27.743 16.183)" fill="none" stroke="#fc9433" stroke-width="1"/>
+      <line id="Line_40-2" data-name="Line 40" y2="32.366" transform="translate(27.743 30.054)" fill="none" stroke="#fc9433" stroke-width="1"/>
+    </g>
+    <g id="Group_542" data-name="Group 542" transform="translate(1062 100.521)">
+      <g id="Polygon_17-3" data-name="Polygon 17" transform="translate(69.862 0) rotate(90)" fill="none">
+        <path d="M60.038,0,80.05,34.931,60.038,69.862H20.013L0,34.931,20.013,0Z" stroke="none"/>
+        <path d="M 20.59218978881836 1 L 1.152496337890625 34.93109893798828 L 20.59217834472656 68.86219787597656 L 59.458251953125 68.86219787597656 L 78.89793395996094 34.93109893798828 L 59.458251953125 1 L 20.59218978881836 1 M 20.01261520385742 0 L 60.03782653808594 0 L 80.05042266845703 34.93109893798828 L 60.03782653808594 69.86219787597656 L 20.01260375976563 69.86219787597656 L 7.62939453125e-06 34.93109893798828 L 20.01261520385742 0 Z" stroke="none" fill="#432968"/>
+      </g>
+      <path id="Path_598-3" data-name="Path 598" d="M0,0,35.536,17.251" transform="translate(0 20.376)" fill="none" stroke="#432968" stroke-width="1"/>
+      <line id="Line_39-3" data-name="Line 39" x1="34.931" y2="17.466" transform="translate(34.931 20.376)" fill="none" stroke="#432968" stroke-width="1"/>
+      <line id="Line_40-3" data-name="Line 40" y2="40.753" transform="translate(34.931 37.842)" fill="none" stroke="#432968" stroke-width="1"/>
+    </g>
+    <g id="Group_547" data-name="Group 547" transform="translate(193 404.973)">
+      <g id="Polygon_17-4" data-name="Polygon 17" transform="translate(35.862 0) rotate(90)" fill="none">
+        <path d="M30.819,0,41.092,17.931,30.819,35.862H10.273L0,17.931,10.273,0Z" stroke="none"/>
+        <path d="M 10.85260772705078 1 L 1.152496337890625 17.93111038208008 L 10.85260772705078 34.86222076416016 L 30.23951721191406 34.86222076416016 L 39.93962860107422 17.93111038208008 L 30.23951721191406 1 L 10.85260772705078 1 M 10.27303314208984 0 L 30.819091796875 0 L 41.09212112426758 17.93111038208008 L 30.819091796875 35.86222076416016 L 10.27303314208984 35.86222076416016 L 3.814697265625e-06 17.93111038208008 L 10.27303314208984 0 Z" stroke="none" fill="#432968"/>
+      </g>
+      <path id="Path_598-4" data-name="Path 598" d="M0,0,18.242,8.855" transform="translate(0 10.46)" fill="none" stroke="#432968" stroke-width="1"/>
+      <line id="Line_39-4" data-name="Line 39" x1="17.931" y2="8.966" transform="translate(17.931 10.46)" fill="none" stroke="#432968" stroke-width="1"/>
+      <line id="Line_40-4" data-name="Line 40" y2="20.92" transform="translate(17.931 19.425)" fill="none" stroke="#432968" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

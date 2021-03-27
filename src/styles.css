@@ -2,12 +2,57 @@
 body {font-family: 'Roboto', sans-serif;}
 :root{
     --font2:Montserrat, sans-serif;
+    --whitecolor:#ffffff;
+    --text-color-dark:#3F3D56;
+    --text-color:#7B7992;
+    --purplecolor:#432968;
+    --bordercolor:#D3B9FF;
+    --bordercolor2:#AFA5F2;
+    --purplelight:#F7F2FF;
+    --purplefade:#B1ADDB;
+    --yellowcolor:#FC9433;
 }
-a:hover{text-decoration:none;}
+a:hover{text-decoration:none; color:var(--purplecolor) !important}
 .container { width: 87%; max-width: 87%;}
-.btnprimary{background: #432968;}
-h1, h2, h3, h4, h5, h6 {color: #3F3D56;}
-p{font-size: 14px; color: #7B7992; line-height:24px}
-p span, p a{color: #FC9433;}
+.btnprimary{background: var(--purplecolor) !important;}
+h1, h2, h3, h4, h5, h6 {color: var(--text-color-dark);}
+p{font-size: 14px; color: var(--text-color); line-height:24px}
+p span, p a{color: var(--yellowcolor) !important; font-weight: 500; transition: all .3s ease-in;}
 ::placeholder{color: #BCB9D8; font-size:14px}
-button:focus{outline: none; box-shadow: none;}
+button:focus{outline: none !important; box-shadow: none !important; border-radius:2px}
+html, body { height: 100%; }
+button{border-radius:2px !important; font-size: 12px !important;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.img-fluid{width: 100%; height: 100%;}
+.form-control{border-radius:0; font-size: 14px; color:var(--text-color)}
+table{border: 0;}
+table tr td{border: 0 !important;}
+table thead{background: none;}
+table thead td{color: var(--text-color-dark); text-transform: uppercase; font-size:18px; font-weight: 500;}
+table tbody tr:nth-child(odd){background: var(--whitecolor);}
+table tbody tr:nth-child(even){background:none;}
+table tbody tr td{font-size: 16px; white-space: nowrap;}
+
+ul.productpagelistop{list-style: none; margin: 0; padding:0; display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 20px;}
+ul.productpagelistop li a{padding: 0 20px; height: 38px; line-height: 38px; text-align:center; background:var(--purplelight);  cursor: pointer; color: var(--purplecolor) !important;   display: block; transition: all .3s ease-in-out;}
+
+ul.productpagelistop li:nth-child(1) a{border-radius: 3px 0 0 3px;}
+ul.productpagelistop li:nth-last-child(1) a{border-radius: 0 3px 3px 0;}
+ul.productpagelistop li a.active, ul.productpagelistop li a:hover{background: var(--purplecolor); color:var(--whitecolor) !important ; border-radius: 3px;}
+
+
+/* products css */
+.mainboxproducts{width: 100%; position: relative;}
+.mainboxproducts .img-fluid{width: 100%; height: 100%;}
+.mainboxproducts .productdatabox{position: absolute; width: 100%; bottom: 0; left: 0; padding: 10px;}
+.mainboxproducts .productdatabox .productinbx{width: 100%; background: linear-gradient(#fc9433d9, #432968d9); border-radius: 4px;}
+.mainboxproducts .productdatabox .productinbx h4{margin:0; font-weight: 500; font-size: 15px; margin-bottom: 3px; color: #fff;}
+.mainboxproducts .productdatabox .productinbx .createdby p{color: #fff; margin: 0; line-height: 16px; font-size: 11px;}
+.mainboxproducts .productdatabox .productinbx .qrcode img{border-radius: 0;}
+.mainboxproducts .productdatabox .productinbx .price{margin:0; line-height: 12px; font-weight: 500; font-size: 15px; margin-bottom: 2px; color: var(--yellowcolor);}
+.mainboxproducts .productdatabox .productinbx .price img, .mainboxproducts .productdatabox .productinbx .last-price img{width: 15px; height: 15px; margin-bottom: 3px; display: initial;}
+.mainboxproducts .productdatabox .productinbx .last-price{margin:0; line-height: 12px; font-weight: 400; font-size: 13px; margin-bottom: 3px; color:#fff;}
+.mainboxproducts .productdatabox .productinbx .last-price span{color: var(--yellowcolor);}
+@media only screen and (min-width: 270px) and (max-width:768px){
+    table tbody tr td, table thead tr td{font-size: 14px;}
+}

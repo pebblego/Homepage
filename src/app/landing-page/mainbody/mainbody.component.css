@@ -1,13 +1,13 @@
 .headerslide{background:#F5E8E5; position: relative;}
-.headerslide::before{content:''; width:100%; height:100%;     background: url(../../assets/images/svg/headerbg.svg) no-repeat top right; position: absolute; right: 0; top: 0;}
-.cumminsoonbrtn{border-radius: 2px; transition: all .3s ease-in-out; padding:10px 35px; font-family: var(--font2); font-weight: 500;}
-.cumminsoonbrtn:hover{background:#ED7322 ;}
+.headerslide::before{content:''; width:100%; height:100%;     background: url(../../../assets/images/svg/headerbg.svg) no-repeat top right; position: absolute; right: 0; top: 0;}
+.cumminsoonbrtn{border-radius: 2px; font-size: 16px !important; transition: all .3s ease-in-out; padding:10px 35px; font-family: var(--font2); font-weight: 500;}
+/* .cumminsoonbrtn:hover{background:#ED7322 ;} */
 .headerpart{ padding-top: 130px; padding-bottom:200px}
 .headerpart h1{ font-size: 90px; font-weight:bold; margin:0; line-height:90px}
 .headerpart h4{font-size: 26px; color: #432968; font-weight: 400; margin-bottom: 50px;}
 .headerslide{margin-top: 61px;}
 .panel2{background:linear-gradient(45deg, #43296812, #fc943312);}
-.panel2 h2{ font-size: 30px; font-weight: 500;}
+h2{ font-size: 30px; font-weight: 500;}
 h3{font-weight: 500; font-size: 18px;}
 
 .panel2data img{width: auto; object-fit: cover; height: 230px;}
